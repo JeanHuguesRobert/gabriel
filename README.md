@@ -32,4 +32,4 @@ Submit a pull request with a clear description of your changes.
 Gabriel is licensed under the MIT License. See the LICENSE file for details.
 
 ## Related work
-**Unbatited** - Filter X posts. https://github.com/danielpetho/unbaited
+**Unbaited** - Filter X posts. https://github.com/danielpetho/unbaited
